@@ -1,11 +1,11 @@
 .sidebar {
-  flex: 0;
+  flex: 3;
   height: fit-content;
   margin: 20px;
   padding-bottom: 30px;
-  background-color: #f1d8d8;
+  background-color: #fdfbfb;
   border-radius: 10px;
-  display: inherit;
+  display: flex;
   flex-direction: column;
   align-items: center;
 }

@@ -10,21 +10,21 @@
   color: gold;
 }
 
+.headerTitleSm {
+  position: absolute;
+  top: 45%;
+  font-size: 20px;
+}
+
 .headerTitleLg {
   position: absolute;
   top: 30%;
   font-size: 100px;
 }
 
-.headerTitleSm {
-  position: absolute;
-  top: 50%;
-  font-size: 20px;
-}
-
 .headerImg {
   width: 100%;
-  height: 500px;
-  margin-top: 80px;
+  height: 600px;
+  margin-top: 1px;
   object-fit: cover;
 }
